@@ -12,4 +12,4 @@ db_name = 'database'
 # user = 'ENifakin'
 # password = '123123En'
 # db_name = 'database'
-port = 5432
+port = 80
